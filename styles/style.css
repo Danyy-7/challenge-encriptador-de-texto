@@ -68,7 +68,7 @@ body{
 .texto__encriptado{
     box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
     background: var(--color--terciario);
-    background-image: url("/assets/imagen-espera.png");
+    background-image: url("../assets/imagen-espera.png");
     background-size:contain;
     background-repeat: no-repeat;
     opacity: 0.8;
